@@ -1,0 +1,3 @@
+AHG - A hacker game based on Python.
+You can input the order in the code to play this game!
+If you have any question,you can make an issue or call on me!
